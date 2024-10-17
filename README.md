@@ -34,6 +34,6 @@ to be correct. In my code it makes sure that when it calls computeFib(i) that j<
 if it has not been then it will continue to calculate the value. This is doing it in order with i-1 and i-2 then storing the value in an array. 
 
 ##Sources 
-https://www.geeksforgeeks.org/java-fibonacci-series/, I liked hoe they used the idea of an array to store old values, it is where I got the array idea. 
+https://www.geeksforgeeks.org/java-fibonacci-series/, I liked how they used the idea of an array to store previous values, it is where I got the array idea. 
 
 "I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice."
