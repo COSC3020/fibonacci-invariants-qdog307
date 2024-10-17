@@ -16,7 +16,12 @@ function fib(n) {
         return fibArray[i];
     }
 
+    
+    if (n >= 0) fibArray[0] = 0;
+    if (n >= 1) fibArray[1] = 1;
+
     computeFib(n);
     return fibArray;
 }
+
 
