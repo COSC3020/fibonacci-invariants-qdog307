@@ -30,7 +30,7 @@ your answer to this markdown file.
 
 ##Answers 
 The time invariant makes sure that before calculating the numberfor index I, the previous values have been calculated and stored becasue they are imporant for the next value 
-to be correct. In my code it makes sure that when it calls computeFib(i) that j<=i-1. This relationship checks that it has been calculated and stored in the array,
+to be correct. In my code it makes sure that when it calls computeFib(i) that j<=i-1 so the time inaviant is fibArray[i]. This relationship checks that it has been calculated and stored in the array,
 if it has not been then it will continue to calculate the value. This is doing it in order with i-1 and i-2 then storing the value in an array. 
 
 ##Sources 
